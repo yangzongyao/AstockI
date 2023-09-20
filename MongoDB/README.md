@@ -55,10 +55,10 @@ db.createUser(
 ngrok tcp 27017     # 建立mongo請使用tcp；網頁使用http
 ```
 ngrok啟動結果如下:
-![Alt text](ngrok_result.png)
+![Alt text](./static/ngrok_result.png)
 
 mongo連線方式如下:
-![Alt text](mongo_conn.png)
+![Alt text](./static/mongo_conn.png)
 ### 已知問題
     1. ngrok每次重啟都會更換網址，需有辦法溝通新的連線網址
 ### 資源
