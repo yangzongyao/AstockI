@@ -59,6 +59,9 @@ ngrok啟動結果如下:
 
 mongo連線方式如下:
 ![Alt text](./static/mongo_conn.png)
+
+### ngrok public url :
+tcp://0.tcp.jp.ngrok.io:17168 
 ### 已知問題
     1. ngrok每次重啟都會更換網址，需有辦法溝通新的連線網址
 ### 資源
